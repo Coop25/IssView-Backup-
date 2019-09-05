@@ -1,6 +1,6 @@
 # IssView
 
-[well the image does not want to show up LOL so here is some text XD](https://imgur.com/a/38oVXyY?)
+![well the image does not want to show up LOL so here is some text XD](https://imgur.com/a/38oVXyY?)
 
 IssView is a collaborative [International Space Station](https://en.wikipedia.org/wiki/International_Space_Station) Tracking app. this app presents the user with various information such as where the ISS is in relation to an entered location, what is the weather like where the ISS is at, and things of that nature. 
 
